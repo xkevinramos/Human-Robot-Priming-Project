@@ -1,0 +1,10 @@
+Subject Average positive word reaction time: 3.036434e-01
+Average negative word reaction time: 2.086010e-01
+Average neutral word reaction time: 3.164077e-01
+Average non-word reaction: 3.158986e-01
+Average reaction for emotional words: 1.298308e-01
+Average reaction for neutral/non words: 2.840369e-01
+
++0.142,   +0.017,   +0.898,  +0.320,  +0.013,    +0.605
++1.883,   +2.974,   -1.000,  +0.609,  +3.114,    +0.986
++0.541,   +0.918,   +0.519,  +1.150,  +0.792,    +0.615
